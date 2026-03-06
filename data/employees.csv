@@ -1,0 +1,11 @@
+id,name,department,salary,age,city
+1,Alice Johnson,Engineering,115000.00,28,Seattle
+2,Bob Smith,Marketing,72000.50,35,New York
+3,Carol White,Engineering,98000.00,31,Seattle
+4,David Brown,HR,65000.00,45,Chicago
+5,Eve Davis,Engineering,130000.00,27,San Francisco
+6,Frank Miller,Marketing,80000.00,29,New York
+7,Grace Lee,HR,70000.00,38,Chicago
+8,Henry Wilson,Engineering,105000.00,33,Seattle
+9,Iris Taylor,Marketing,76000.00,41,Boston
+10,Jack Anderson,Engineering,120000.00,26,San Francisco
